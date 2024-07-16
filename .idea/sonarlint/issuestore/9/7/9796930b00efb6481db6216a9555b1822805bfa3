@@ -1,0 +1,15 @@
+
+}
+java:S1118
+":Add a private constructor to hide the implicit public one.(×¼­Æ8şÈ÷Ù‹2J$e2b4a8af-8e8b-442e-a134-d300d903951d
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(ƒú¤òşÿÿÿÿ8É÷Ù‹2J$0655c542-75fb-4f61-b0d6-eebc5c6273f5
+~
+java:S6437"6Revoke and change this password, as it is compromised.(¦ÀËëùÿÿÿÿ8ƒÉ÷Ù‹2J$0d7d527b-7f22-449c-95c1-2d329c7b553f
+r	java:S106"+Replace this use of System.out by a logger.(¶¡øÎşÿÿÿÿ8„É÷Ù‹2J$93d4881e-fe0e-46c9-ad1d-7fa48b466dbe
+m	java:S106"+Replace this use of System.out by a logger.(öØÈ¢8…É÷Ù‹2J$5636b7ba-4449-4194-9a4c-debbd4b820cd
+
+java:S1128"7Remove this unused import 'javax.sound.midi.Soundbank'.(µÊøÿÿÿÿ8†É÷Ù‹2J$bd1ff7d2-5fca-4ab4-9de4-d6ba1c6f08a0
+q
+java:S1128")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ8†É÷Ù‹2J$a2a397b1-aa1f-44b8-b373-3da0a0bbeff7
+t
+java:S1128",Remove this unused import 'java.sql.Driver'.(”óäŠÿÿÿÿÿ8†É÷Ù‹2J$dcffefbd-7382-4e8e-9f25-06ca87cd9fc4
