@@ -1,13 +1,12 @@
 
-	java:S112)"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8Ş‹ÂÛ‹2J$c986faa3-1692-4537-a4d4-415803f9843d
-Ä
-java:S1186!"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÿ ¼Ş8ë‹ÂÛ‹2J$1c6b5ffa-a06c-4e50-bd25-d46c085b9496
 É
-java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ªÍ„üúÿÿÿÿ8ë‹ÂÛ‹2J$cd071d4a-4e24-4234-9fe2-a92edad0824e
-~	java:S125"<This block of commented-out lines of code should be removed.(ÿ€¦8ğ‹ÂÛ‹2J$00e09222-edb6-46e4-8af5-0f5615418ab6
-r	java:S106"+Replace this use of System.out by a logger.(á˜°‘ûÿÿÿÿ8ö‹ÂÛ‹2J$0df7a27c-f079-417d-a4dc-eeff0f8976cc
-s
-java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8ÿ‹ÂÛ‹2J$e23f8a21-10e9-408f-8938-6b188a3267b5
-„
-java:S1128
-"ARemove this unused import 'java.sql.DriverManager.getConnection'.(£¶ÖŠ8€ŒÂÛ‹2J$8098dc8e-2fb1-4404-8c05-cab1c34e2d0c
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çù¸àúÿÿÿÿ8„¤¯Ü‹2J$e150c87b-2034-47ae-904b-7e3ebe777c41
+r	java:S106"+Replace this use of System.out by a logger.(á˜°‘ûÿÿÿÿ8‹¤¯Ü‹2J$61d1697d-f7ce-4926-b0f2-affaf5aaab1a
+d
+java:S1128"BRemove this unused import 'jm.task.core.jdbc.dao.UserDaoJDBCImpl'.(äšÉàøÿÿÿÿ8»Â±İ‹2
+M
+java:S1128"0Remove this unused import 'java.sql.Connection'.(¥ËôÖ8»Â±İ‹2
+O
+java:S1128	"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8»Â±İ‹2
+^
+java:S1128"ARemove this unused import 'java.sql.DriverManager.getConnection'.(£¶ÖŠ8¼Â±İ‹2
